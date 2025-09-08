@@ -7,10 +7,10 @@ Team Name: AgriVision
 Repository: https://github.com/alfonso020-bsit/ITE412_SIA2_team_AgriVision_Project.git
 
 Team Members & Roles
-Project Lead: Angelica L. Alfonso
-Documenter: Mark Dave M. Alquiza
-Diagrammer: Syren D. Calibo
-Researcher: John Lloyd B. Jardines
+        Project Lead: Angelica L. Alfonso
+        Documenter: Mark Dave M. Alquiza
+        Diagrammer: Syren D. Calibo
+        Researcher: John Lloyd B. Jardines
 
 
 Short Introduction
