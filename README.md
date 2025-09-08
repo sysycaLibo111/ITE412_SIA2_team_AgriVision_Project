@@ -1,4 +1,10 @@
-# ITE412_SIA2_team_AgriVision_Project
+Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Mobile Application Using Convolutional Neural Network
+
+Course: ITP412 - Systems Integration and Architecture 2
+
+Team Name: AgriVision
+
+Repository: https://github.com/alfonso020-bsit/ITE412_SIA2_team_AgriVision_Project.git
 
 Team Members & Roles
 Project Lead: Angelica L. Alfonso
@@ -6,7 +12,6 @@ Documenter: Mark Dave M. Alquiza
 Diagrammer: Syren D. Calibo
 Researcher: John Lloyd B. Jardines
 
-Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Mobile Application Using Convolutional Neural Network
 
 Short Introduction
 
