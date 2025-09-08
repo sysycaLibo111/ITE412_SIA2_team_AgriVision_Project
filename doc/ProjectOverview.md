@@ -1,3 +1,5 @@
+ ProjectOverview
+ 
 1. System Objectives 
         Develop a CNN-powered mobile application capable of detecting rice pests and diseases through image recognition using smartphone cameras.
         Provide decision support and management guidelines for detected pests and diseases to assist farmers in implementing timely interventions.
@@ -16,5 +18,7 @@
     4.Researchers/Developers (Project Team) – Build and maintain the mobile application and AI model.
 
 4. Tools/Technologies
-Visual Studio Code, Ionic, Angular, Firebase, Public API (Weather Forecast, Mapping) 
+Visual Studio Code, Ionic, Angular, Firebase, Public API (Weather Forecast, Mapping)
+
+High-Level System Overview
 
