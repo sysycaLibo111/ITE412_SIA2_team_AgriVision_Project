@@ -18,7 +18,7 @@
     4.Researchers/Developers (Project Team) – Build and maintain the mobile application and AI model.
 
 4. Tools/Technologies
-Visual Studio Code, Ionic, Angular, Firebase, Public API (Weather Forecast, Mapping)
+Visual Studio Code, Ionic, Angular, Supabase, Public API (Weather Forecast, Mapping)
 
 High-Level System Overview
 
