@@ -46,4 +46,4 @@ Rationale
 The Hub-Spoke pattern was chosen because it provides a centralized hub (the web server) to manage communication between AgriExpert’s modules. This approach simplifies data flow, reduces interdependencies between modules, and supports scalability. Farmers, experts, and administrators interact with the system through the hub, which routes requests to the Detection, Knowledge Library, Consultation, and Mapping modules. This design ensures maintainability, consistency of data, and efficient monitoring for municipal-level agricultural management.
 
 Diagram Reference
-![High-Level Architecture Diagram](./HighLevelArch.png)
+![High-Level Architecture Diagram](./HighLevelArchitecture.png)
