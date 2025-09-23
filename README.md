@@ -1,4 +1,4 @@
-Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Mobile Application Using Convolutional Neural Network
+Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Web Application Using Convolutional Neural Network
 
 Course: ITP412 - Systems Integration and Architecture 2
 
