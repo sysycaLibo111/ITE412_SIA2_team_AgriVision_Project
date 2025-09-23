@@ -1,4 +1,5 @@
- Project Overview
+Project Overview
+Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Web Application Using Convolutional Neural 
 
  1. System Objectives
 - Develop a CNN-powered web application capable of detecting rice pests and diseases through image recognition using device cameras.
