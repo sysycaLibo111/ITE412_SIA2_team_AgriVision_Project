@@ -1,11 +1,11 @@
  ProjectOverview
  
 1. System Objectives 
-        Develop a CNN-powered mobile application capable of detecting rice pests and diseases through image recognition using smartphone cameras.
-        Provide decision support and management guidelines for detected pests and diseases to assist farmers in implementing timely interventions.
-        Integrate real-time APIs (mapping, weather forecasts, and agricultural news) to enhance situational awareness and decision-making.
-        Enable expert collaboration and knowledge sharing through a built-in communication and advisory feature.
-        Provide an admin role (Municipal Agriculture Office) to oversee pest and disease reports, monitor outbreak areas, and generate reports for policy and intervention planning.
+       - Develop a CNN-powered mobile application capable of detecting rice pests and diseases through image recognition using smartphone cameras.
+       - Provide decision support and management guidelines for detected pests and diseases to assist farmers in implementing timely interventions.
+       - Integrate real-time APIs (mapping, weather forecasts, and agricultural news) to enhance situational awareness and decision-making.
+       - Enable expert collaboration and knowledge sharing through a built-in communication and advisory feature.
+       - Provide an admin role (Municipal Agriculture Office) to oversee pest and disease reports, monitor outbreak areas, and generate reports for policy and intervention planning.
 
 
 2. Proposed Scope 
