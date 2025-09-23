@@ -45,8 +45,8 @@ Hub-Spoke (ESB-like) Pattern
 Rationale
 The Hub-Spoke pattern was selected for the AgriExpert system to effectively manage communication between its diverse and independent modules (e.g., Detection, Library, Consultation). This pattern introduces a central API Gateway that acts as a single entry point for all requests from the mobile client. This approach provides significant advantages:
 - Decoupling: Modules are independent and communicate only through the hub, reducing complex interdependencies.
-- **Centralized Security & Logging: Authentication, rate limiting, and audit logs can be handled uniformly at the gateway.
-- **Improved Maintainability: Adding or modifying a service requires changes only at the hub, not in every other module.
+- Centralized Security & Logging: Authentication, rate limiting, and audit logs can be handled uniformly at the gateway.
+- Improved Maintainability: Adding or modifying a service requires changes only at the hub, not in every other module.
 - Orchestration: The hub can manage complex workflows, such as routing a detection result to the library service for information retrieval and then to the consultation service to connect with an expert.
 
 While a Publish-Subscribe pattern could be useful for specific notifications (e.g., alerting experts about regional outbreaks), the Hub-Spoke pattern is better suited for the core request-response interactions that define most of the application's functionality.
