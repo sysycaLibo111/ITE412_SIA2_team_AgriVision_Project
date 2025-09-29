@@ -1,0 +1,21 @@
+{
+  "name": "ite412_sia2_team_agrivision_project",
+  "version": "1.0.0",
+  "description": "Project Overview\r Project Title: AgriExpert: A Rice Pest and Disease Detection, Management, and Expert Collaboration Web Application Using Convolutional Neural",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
